@@ -16,5 +16,5 @@ Software Developer specializing in high-performance backend systems, cloud platf
 
 ### 📫 Connect with Me
 
+[![X](https://img.shields.io/badge/SertacDev-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/SertacDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sertaç_Yıldız-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sertacyildiz)
-[![GitHub](https://img.shields.io/badge/GitHub-sertacyildiz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sertacyildiz)
