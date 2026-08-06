@@ -3,8 +3,6 @@
 > 🗣️ **Phonetic Pronunciation:** `[/sæɾ'tɑtʃ jɯɫ'dɯz/]` / `[Ser-tahch Yihl-dihz]` ("**ç**" as in *chair* and "**ı**" as the *i* in *cousin*).
 ---
 
-### 👨‍💻 About Me
-
 Software Developer specializing in high-performance backend systems, cloud platforms, and data-driven architectures. With over a decade of full-stack and architecture experience, I build robust web applications, scalable platforms, and modern automated systems — focusing on simplicity, reliability, and clean design patterns.
 
 * 🔭 **Core Focus:** Architecting backend solutions, building cloud platform infrastructures, and integrating AI solutions.
@@ -14,7 +12,7 @@ Software Developer specializing in high-performance backend systems, cloud platf
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect
 
 [![X](https://img.shields.io/badge/SertacDev-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/SertacDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sertaç_Yıldız-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sertacyildiz)
