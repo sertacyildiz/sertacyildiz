@@ -7,7 +7,7 @@ Software Developer specializing in high-performance backend systems, cloud platf
 
 * 🔭 **Core Focus:** Architecting backend solutions, building cloud platform infrastructures, and integrating AI solutions.
 * 🛠️ **Domains:** PIM, LMS/CMS, high-concurrency booking systems, multi-tenant B2B SaaS, and large-scale data analytics dashboards.
-* 📷 **Interests:** Architecture & HDR panorama photography.
+* 📷 **Interests:** Architecture & HDR panorama [photography](https://500px.com/p/sertacyildiz).
 * ⚡ **Motto:** *"No time for trivial clutter."*
 
 ---
