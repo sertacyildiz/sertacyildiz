@@ -5,7 +5,7 @@
 
 Software Developer specializing in high-performance backend systems, cloud platforms, and data-driven architectures. With over a decade of full-stack and architecture experience, I build robust web applications, scalable platforms, and modern automated systems — focusing on simplicity, reliability, and clean design patterns.
 
-* 🔭 **Core Focus:** Architecting backend solutions, building cloud platform infrastructures, and integrating AI solutions.
+* 🔭 **Core Focus:** Designing scalable backends, building cloud platforms, forging AI ecosystems. 
 * 🛠️ **Domains:** PIM, LMS/CMS, high-concurrency booking systems, multi-tenant B2B SaaS, and large-scale data analytics dashboards.
 * 📷 **Interests:** Architecture & HDR panorama [photography](https://500px.com/p/sertacyildiz).
 * ⚡ **Motto:** *"No time for trivial clutter."*
