@@ -1,18 +1,13 @@
 # Sertaç Yıldız
 
 > 🗣️ **Phonetic Pronunciation:** `[/sæɾ'tɑtʃ jɯɫ'dɯz/]` / `[Ser-tahch Yihl-dihz]` ("**ç**" as in *chair* and "**ı**" as the *i* in *cousin*).
----
 
-Software Developer specializing in high-performance backend systems, cloud platforms, and data-driven architectures. With over a decade of full-stack and architecture experience, I build robust web applications, scalable platforms, and modern automated systems — focusing on simplicity, reliability, and clean design patterns.
+### 💼 Software Developer • 🤖 AI Solution Architect • ☁️ Cloud Platform Specialist
+
+> _Specializing in high-performance backend systems, cloud platforms, and data-driven architectures. With over a decade of full-stack experience, I build robust web applications, scalable platforms, and modern automated systems — focusing on simplicity, reliability, and clean design patterns._
 
 * 🔭 **Core Focus:** Designing scalable backends, building cloud platforms, forging AI ecosystems. 
 * 🛠️ **Domains:** PIM, LMS/CMS, high-concurrency booking systems, multi-tenant B2B SaaS, and large-scale data analytics dashboards.
-* 📷 **Interests:** Architecture & HDR panorama [photography](https://500px.com/p/sertacyildiz).
-* ⚡ **Motto:** *"No time for trivial clutter."*
+* 📷 **Interests:** HDR-panorama & architecture photography.
+* ⚡ **Motto:** *"No-time for trivial clutter."*
 
----
-
-### 📫 Connect
-
-[![X](https://img.shields.io/badge/SertacDev-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/SertacDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sertaç_Yıldız-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sertacyildiz)
